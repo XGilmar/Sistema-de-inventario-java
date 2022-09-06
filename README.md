@@ -6,7 +6,8 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 - [Registro de actividad](https://github.com/XGilmar/Sistema-de-inventario-java#registro-de-actividad )
 - [Apartado de clientes](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-clientes )
 - [Apartado de proveedor](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-proveedores )
-- [Apartado de productos]()
+- [Apartado de productos](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-productos )
+- 
 ## Autores
 
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
