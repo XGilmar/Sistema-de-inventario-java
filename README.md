@@ -13,6 +13,9 @@ Cada usuario tendrá un máximo de 3 intentos al iniciar sesión, si agota todo 
 
 [![IMG-20220906-WA0008.jpg](https://i.postimg.cc/pLtXt93P/IMG-20220906-WA0008.jpg)](https://postimg.cc/dL4K20qf)
 
+## Registro de actividad
+Este apartado evidencia la cantidad de clientes que existen, la cantidad de productos que se hayan disponible y las ventas que han sido realizadas.
+
 [![IMG-20220906-WA0009.jpg](https://i.postimg.cc/D0fFzD16/IMG-20220906-WA0009.jpg)](https://postimg.cc/sQLb6T6G)
 
 [![IMG-20220906-WA0011.jpg](https://i.postimg.cc/4x6883DK/IMG-20220906-WA0011.jpg)](https://postimg.cc/qN7XqpM0)
