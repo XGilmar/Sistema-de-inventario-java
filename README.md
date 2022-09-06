@@ -17,3 +17,5 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 [![IMG-20220906-WA0012.jpg](https://i.postimg.cc/TYq701MK/IMG-20220906-WA0012.jpg)](https://postimg.cc/Cz5sLFK0)
 
 [![IMG-20220906-WA0013.jpg](https://i.postimg.cc/mZ62DL6F/IMG-20220906-WA0013.jpg)](https://postimg.cc/s17RHrzV)
+
+[![IMG-20220906-WA0015.jpg](https://i.postimg.cc/8kWN1RWx/IMG-20220906-WA0015.jpg)](https://postimg.cc/5jxZgFsm)
