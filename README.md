@@ -1,7 +1,8 @@
 ## Sistema de inventario ✅
 
 Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadmin
-
+## Guía
+- [Inicio de sesión](https://github.com/XGilmar/Sistema-de-inventario-java/edit/main/README.md#inicio-de-sesi%C3%B3n)
 ## Autores
 
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
