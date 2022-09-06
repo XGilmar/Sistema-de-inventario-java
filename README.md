@@ -11,7 +11,8 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 - [Factura](https://github.com/XGilmar/Sistema-de-inventario-java#factura-o-reporte-de-venta )
 - [Historial de ventas](https://github.com/XGilmar/Sistema-de-inventario-java#historial-de-ventas )
 - [Ayuda](https://github.com/XGilmar/Sistema-de-inventario-java#ayuda)
-- [Rol de usuario]()
+- [Rol de usuario](https://github.com/XGilmar/Sistema-de-inventario-java#rol-de-usuario)
+
 ## Autores
 
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
