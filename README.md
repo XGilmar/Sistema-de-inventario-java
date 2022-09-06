@@ -50,6 +50,9 @@ En este apartado se encuentran todas las ventas que fueron realizadas, aquí se 
 
 [![IMG-20220906-WA0015.jpg](https://i.postimg.cc/8kWN1RWx/IMG-20220906-WA0015.jpg)](https://postimg.cc/5jxZgFsm)
 
+## Ayuda
+En este apartado se encuentra una pequeña información de lo que puede ayudar al usuario en aclarar las dudas o problemas que tenga con el manejo de la aplicación.
+
 [![IMG-20220906-WA0017.jpg](https://i.postimg.cc/Cx0jvsH0/IMG-20220906-WA0017.jpg)](https://postimg.cc/dLWk3dxN)
 
 [![IMG-20220906-WA0018.jpg](https://i.postimg.cc/htCf9L2p/IMG-20220906-WA0018.jpg)](https://postimg.cc/cvnxWnyn)
