@@ -35,6 +35,9 @@ También cuenta con un notificador que te indica cuando tienes productos agotado
 
 [![IMG-20220906-WA0013.jpg](https://i.postimg.cc/mZ62DL6F/IMG-20220906-WA0013.jpg)](https://postimg.cc/s17RHrzV)
 
+## Apartado de ventas
+En este apartado puedes realizar las ventas, se necesita ingresar el nit o documento del usuario para autocompletar los demás datos al igual que también se debe ingresar el producto, en este caso cada producto cuenta con un código. Una vez de haber completado estos requisitos se podrá realizar la venta que inmediatamente generará una factura.
+
 [![IMG-20220906-WA0014.jpg](https://i.postimg.cc/nhS6KrBv/IMG-20220906-WA0014.jpg)](https://postimg.cc/G4Y7dcM2)
 
 [![IMG-20220906-WA0015.jpg](https://i.postimg.cc/8kWN1RWx/IMG-20220906-WA0015.jpg)](https://postimg.cc/5jxZgFsm)
