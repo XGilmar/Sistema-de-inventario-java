@@ -45,6 +45,9 @@ Cada venta realizada generará una factura o reporte de inmediato, aquí se pued
 
 [![IMG-20220906-WA0016.jpg](https://i.postimg.cc/x8FKxwRF/IMG-20220906-WA0016.jpg)](https://postimg.cc/WqgFtfxM)
 
+## Historial de ventas
+En este apartado se encuentran las ventas que fueron realizadas, aquí se puede visualizar mostradanos su reporte dándole click al botón imprimir, también contando así con la disponibilidad de eliminar.
+
 [![IMG-20220906-WA0015.jpg](https://i.postimg.cc/8kWN1RWx/IMG-20220906-WA0015.jpg)](https://postimg.cc/5jxZgFsm)
 
 [![IMG-20220906-WA0017.jpg](https://i.postimg.cc/Cx0jvsH0/IMG-20220906-WA0017.jpg)](https://postimg.cc/dLWk3dxN)
