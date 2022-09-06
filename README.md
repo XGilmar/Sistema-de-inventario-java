@@ -23,6 +23,9 @@ En este apartado puedes hacer el registro de nuevos clientes, así con la dispon
 
 [![IMG-20220906-WA0011.jpg](https://i.postimg.cc/4x6883DK/IMG-20220906-WA0011.jpg)](https://postimg.cc/qN7XqpM0)
 
+## Apartado de proveedores
+En este apartado puedes hacer el registro de los proveedores, así con la disponibilidad de poder modificarlos, eliminarlo y guardarlos.
+
 [![IMG-20220906-WA0012.jpg](https://i.postimg.cc/TYq701MK/IMG-20220906-WA0012.jpg)](https://postimg.cc/Cz5sLFK0)
 
 [![IMG-20220906-WA0013.jpg](https://i.postimg.cc/mZ62DL6F/IMG-20220906-WA0013.jpg)](https://postimg.cc/s17RHrzV)
