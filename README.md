@@ -9,8 +9,8 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 ## información
 El proyecto está a la venta si lo deseas. 
 - [$90.000 COP]()
-- [$20 dólares]() si eres extranjero 
-Esto es con el fin de conseguir una computadora, para realizar mis proyectos y guiarlos con tutoriales.
+- [$20 dólares]() **si eres extranjero.**
+- Esto es con el fin de conseguir una computadora, para realizar mis proyectos y guiarlos con tutoriales.
 
 ## Capturas de pantalla
 
