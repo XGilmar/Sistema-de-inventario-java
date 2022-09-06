@@ -18,6 +18,9 @@ Este apartado evidencia la cantidad de clientes que existen, la cantidad de prod
 
 [![IMG-20220906-WA0009.jpg](https://i.postimg.cc/D0fFzD16/IMG-20220906-WA0009.jpg)](https://postimg.cc/sQLb6T6G)
 
+## Apartado de clientes
+En este apartado puedes hacer el registro de nuevos clientes, así con la disponibilidad de poder modificarlos, eliminarlo y guardarlos.
+
 [![IMG-20220906-WA0011.jpg](https://i.postimg.cc/4x6883DK/IMG-20220906-WA0011.jpg)](https://postimg.cc/qN7XqpM0)
 
 [![IMG-20220906-WA0012.jpg](https://i.postimg.cc/TYq701MK/IMG-20220906-WA0012.jpg)](https://postimg.cc/Cz5sLFK0)
