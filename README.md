@@ -28,6 +28,11 @@ En este apartado puedes hacer el registro de los proveedores, así con la dispon
 
 [![IMG-20220906-WA0012.jpg](https://i.postimg.cc/TYq701MK/IMG-20220906-WA0012.jpg)](https://postimg.cc/Cz5sLFK0)
 
+## Apartado de productos
+En este apartado puedes hacer el registro de nuevos productos, así con la disponibilidad de poder modificarlos, eliminarlo y guardarlos.
+También cuenta con un notificador que te indica cuando tienes productos agotados en tu stock, cuando el puntico se haya en verde quiere decir que hay productos completamente disponible, en caso de que no esté de color verde sabrás que tienes productos agotados.
+
+
 [![IMG-20220906-WA0013.jpg](https://i.postimg.cc/mZ62DL6F/IMG-20220906-WA0013.jpg)](https://postimg.cc/s17RHrzV)
 
 [![IMG-20220906-WA0014.jpg](https://i.postimg.cc/nhS6KrBv/IMG-20220906-WA0014.jpg)](https://postimg.cc/G4Y7dcM2)
