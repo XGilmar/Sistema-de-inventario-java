@@ -40,6 +40,9 @@ En este apartado puedes realizar las ventas, se necesita ingresar el nit o docum
 
 [![IMG-20220906-WA0014.jpg](https://i.postimg.cc/nhS6KrBv/IMG-20220906-WA0014.jpg)](https://postimg.cc/G4Y7dcM2)
 
+## Factura o reporte de venta
+Cada venta realizada generará una factura o reporte de inmediato, aquí se puede observar los detalles de la venta que ha sido realizada, como la información del cliente y el producto al igual que nos muestra también que usuario fue el que realizó dicha venta y en qué fecha.
+
 [![IMG-20220906-WA0016.jpg](https://i.postimg.cc/x8FKxwRF/IMG-20220906-WA0016.jpg)](https://postimg.cc/WqgFtfxM)
 
 [![IMG-20220906-WA0015.jpg](https://i.postimg.cc/8kWN1RWx/IMG-20220906-WA0015.jpg)](https://postimg.cc/5jxZgFsm)
