@@ -26,6 +26,7 @@
 <details>
 
 <summary>ver</summary>
+
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
 </details>
 
