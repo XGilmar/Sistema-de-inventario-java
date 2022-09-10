@@ -23,8 +23,12 @@
 </details>
 
 ## Autores
+<details>
 
+<summary>ver</summary>
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
+</details>
+
 ### Información
 <details>
 
