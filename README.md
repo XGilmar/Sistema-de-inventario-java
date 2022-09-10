@@ -8,7 +8,7 @@
 
 ## Documentación
 <details>
-<summary>Ver</summary>
+<summary>Guía</summary>
 
 - [Inicio de sesión](https://github.com/XGilmar/Sistema-de-inventario-java#inicio-de-sesi%C3%B3n)
 - [Registro de actividad](https://github.com/XGilmar/Sistema-de-inventario-java#registro-de-actividad )
