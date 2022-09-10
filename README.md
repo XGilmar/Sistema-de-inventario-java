@@ -5,7 +5,7 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 
 ## Documentación
 <details>
-<summary>Guía</summary>
+<summary>Ver</summary>
 
 - [Inicio de sesión](https://github.com/XGilmar/Sistema-de-inventario-java#inicio-de-sesi%C3%B3n)
 - [Registro de actividad](https://github.com/XGilmar/Sistema-de-inventario-java#registro-de-actividad )
