@@ -4,6 +4,8 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
 ## Documentación
+<details>
+<summary>Guía</summary>
 - [Inicio de sesión](https://github.com/XGilmar/Sistema-de-inventario-java#inicio-de-sesi%C3%B3n)
 - [Registro de actividad](https://github.com/XGilmar/Sistema-de-inventario-java#registro-de-actividad )
 - [Apartado de clientes](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-clientes )
@@ -14,6 +16,7 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 - [Historial de ventas](https://github.com/XGilmar/Sistema-de-inventario-java#historial-de-ventas )
 - [Ayuda](https://github.com/XGilmar/Sistema-de-inventario-java#ayuda)
 - [Rol de usuario](https://github.com/XGilmar/Sistema-de-inventario-java#rol-de-usuario)
+</details>
 
 ## Autores
 
