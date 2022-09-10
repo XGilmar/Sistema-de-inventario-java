@@ -5,7 +5,7 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   
 <div style="display: inline_block"><br>
-<img style="background-color:#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>         
 
 ## Documentación
