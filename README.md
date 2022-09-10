@@ -23,12 +23,19 @@ Sistema de inventario realizado en java 8.2 netbeans con reporte, mysql phpmyadm
 
 - [@Gilmar Escudero](https://www.github.com/XGilmar)
 ### Información
+<details>
+
+<summary>ver</summary>
+
 > __Note__
 > - El proyecto está a la venta si lo deseas. 
 > - [$90.000 COP]()
 > - [$20 dólares]() **si eres extranjero.**
 > - Esto es con el fin de conseguir una nueva computadora, para realizar mis proyectos y guiarlos con tutoriales.
 > - [Contáctame aquí](https://wa.me/573106236081)
+
+</details>
+
 ## Capturas de pantalla
 
 ### Inicio de sesión
