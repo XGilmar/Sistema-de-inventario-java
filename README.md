@@ -27,7 +27,7 @@
 
 <summary>ver</summary>
 
-- [@Gilmar Escudero](https://www.github.com/XGilmar)
+> [@Gilmar Escudero](https://www.github.com/XGilmar)
 </details>
 
 ### Información
