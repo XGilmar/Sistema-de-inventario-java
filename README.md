@@ -50,7 +50,7 @@
 
  Cada `usuario` tendrá un máximo de 3 `intentos` al iniciar sesión, si agota todo los intentos la aplicación procederá a cerrarse.
 
-[![IMG-20220906-WA0008.jpg](https://i.postimg.cc/pLtXt93P/IMG-20220906-WA0008.jpg)](https://postimg.cc/dL4K20qf)
+![IMG-20220906-WA0008.jpg](assets/IMG-20220906-WA0008.jpg)
 
 <h2 align="center"> Registro de actividad</h2>
 
