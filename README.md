@@ -28,6 +28,10 @@
 - [Rol de usuario](https://github.com/XGilmar/Sistema-de-inventario-java#rol-de-usuario)
 </details>
 
+## vídeo
+
+> [Míralo aquí](https://youtu.be/8AQHI-jKS54)
+
 ## Autores
 <details>
 
