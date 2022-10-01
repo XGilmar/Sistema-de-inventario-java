@@ -110,6 +110,8 @@ También cuenta con un notificador que te indica cuando tienes productos `agotad
 
  En el control de `usuario` podemos hacer el registro de usuarios nuevos administrandolos con el rol que nosotros le queramos dar. En este apartado solo puede acceder el `admin` o los que cumplan con ese rol, mientras que aquellos usuario que tienen el rol de `empleado` no pueden acceder a este apartado como también a otros que se hayan bloqueado con un candado.
 
+> **Admin**
+
 ![IMG-20220906-WA0018.jpg](assets/IMG-20220906-WA0018.jpg)
 > **Empleado**
 
