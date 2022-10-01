@@ -6,7 +6,11 @@
 <img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
-## Tecnologías usada       
+## 💻 Tecnologías utilizadas
+- Java
+- IDE Netbeans 8.2
+- Mysql
+- phpmyadmin   
 
 ## Documentación
 <details>
