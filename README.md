@@ -61,6 +61,9 @@
 - **Para usuario admin**
 > - usuario: **señorjak**
 > - contraseña: 2022
+- **Para usuario invitado**
+> - usuario:
+> - contraseña:
 
 
  Cada `usuario` tendrá un máximo de 3 `intentos` al iniciar sesión, si agota todo los intentos la aplicación procederá a cerrarse.
