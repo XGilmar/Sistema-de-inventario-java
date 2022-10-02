@@ -59,11 +59,11 @@
 > __Note__
 > **Acceder a la aplicación**
 - **Para usuario admin**
-> - usuario: **señorjak**
+> - usuario: señorjak
 > - contraseña: 2022
 - **Para usuario invitado**
-> - usuario:
-> - contraseña:
+> - usuario: suscriptor
+> - contraseña: 1234
 
 
  Cada `usuario` tendrá un máximo de 3 `intentos` al iniciar sesión, si agota todo los intentos la aplicación procederá a cerrarse.
