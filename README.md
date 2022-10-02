@@ -56,6 +56,13 @@
 
 <h2 align="center">Inicio de sesión</h2>
 
+> __Note__
+> **Acceder a la aplicación**
+- **Para usuario admin**
+> - usuario: **señorjak**
+> - contraseña: 2022
+
+
  Cada `usuario` tendrá un máximo de 3 `intentos` al iniciar sesión, si agota todo los intentos la aplicación procederá a cerrarse.
 
 ![IMG-20220906-WA0008.jpg](assets/IMG-20220906-WA0008.jpg)
