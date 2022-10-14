@@ -7,7 +7,7 @@
 </div>
 
 ## 💻 Tecnologías utilizadas
-- Java
+- Java 8
 - IDE Netbeans 8.2
 - Appserv   
 
