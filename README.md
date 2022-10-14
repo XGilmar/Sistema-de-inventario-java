@@ -12,7 +12,6 @@
 - Appserv   
 
 
-
 ### Abrir el proyecto
 <details>
 
@@ -26,6 +25,11 @@
 
 
 ## Documentación
+
+<details>
+
+<summary>ver</summary>
+
 
 <h2 align="center">Inicio de sesión</h2>
 
@@ -103,3 +107,5 @@ También cuenta con un notificador que te indica cuando tienes productos `agotad
 > **Empleado**
 
 ![IMG-20220906-WA0019.jpg](assets/IMG-20220906-WA0019.jpg)
+
+</details>
