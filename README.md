@@ -11,46 +11,21 @@
 - IDE Netbeans 8.2
 - Appserv   
 
-## Documentación
-<details>
-<summary>Guía</summary>
 
-- [Inicio de sesión](https://github.com/XGilmar/Sistema-de-inventario-java#inicio-de-sesi%C3%B3n)
-- [Registro de actividad](https://github.com/XGilmar/Sistema-de-inventario-java#registro-de-actividad )
-- [Apartado de clientes](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-clientes )
-- [Apartado de proveedor](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-proveedores )
-- [Apartado de productos](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-productos )
-- [Apartado de ventas](https://github.com/XGilmar/Sistema-de-inventario-java#apartado-de-ventas )
-- [Factura](https://github.com/XGilmar/Sistema-de-inventario-java#factura-o-reporte-de-venta )
-- [Historial de ventas](https://github.com/XGilmar/Sistema-de-inventario-java#historial-de-ventas )
-- [Ayuda](https://github.com/XGilmar/Sistema-de-inventario-java#ayuda)
-- [Rol de usuario](https://github.com/XGilmar/Sistema-de-inventario-java#rol-de-usuario)
+
+### Abrir el proyecto
+<details>
+
+<summary>ver</summary>
+
 </details>
 
-## vídeo
+### vídeo
 
 > [Míralo aquí](https://youtu.be/8AQHI-jKS54)
 
 
-### Información
-<details>
-
-<summary>ver</summary>
-
-> __Note__
-> - El proyecto está a la venta si lo deseas. 
-> - Esto es con el fin de conseguir una nueva computadora, para realizar mis proyectos y guiarlos con tutoriales.
-> - [Contáctame aquí](https://wa.me/573106236081)
-
-</details>
-
-## Abrir el proyecto
-<details>
-
-<summary>ver</summary>
-
-</details>
-
+## Documentación
 
 <h2 align="center">Inicio de sesión</h2>
 
