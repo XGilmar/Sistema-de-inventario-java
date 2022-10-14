@@ -9,8 +9,7 @@
 ## 💻 Tecnologías utilizadas
 - Java
 - IDE Netbeans 8.2
-- Mysql
-- phpmyadmin   
+- Appserv   
 
 ## Documentación
 <details>
@@ -32,13 +31,6 @@
 
 > [Míralo aquí](https://youtu.be/8AQHI-jKS54)
 
-## Autores
-<details>
-
-<summary>ver</summary>
-
-> [@Gilmar Escudero](https://www.github.com/XGilmar)
-</details>
 
 ### Información
 <details>
@@ -52,7 +44,13 @@
 
 </details>
 
-## Capturas de pantalla
+## Abrir el proyecto
+<details>
+
+<summary>ver</summary>
+
+</details>
+
 
 <h2 align="center">Inicio de sesión</h2>
 
