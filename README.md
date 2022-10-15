@@ -39,6 +39,11 @@ Abre tu IDE y dirigite a la opción `open project` para abrir el proyecto.
 Una vez hayas abierto el proyecto, te aparecerá este pequeño panel dónde debes darle en `resolve problems`
 
 ![IMG_20221014_171129](https://user-images.githubusercontent.com/86094668/195961609-dced9cb4-5c58-4cb7-848d-243ce199697f.jpg)
+
+
+Seguido de que le hayas dando en `resolve problems` te saldrá esta ventana donde te indica que tienes varias alertas. Estás alertas de tratan de que debes cargar las librerias.
+
+
 </details>
 
 ### vídeo
