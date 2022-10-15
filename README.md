@@ -17,6 +17,11 @@
 
 <summary>ver</summary>
 
+### Primer paso
+
+Debes de extraer el archivo adjunto del proyecto, como recomendación debes ubicarlo en una ruta específica donde sea fácil encontrarlo y hacer una respectiva copia del proyecto
+![IMG_20221014_170820](https://user-images.githubusercontent.com/86094668/195960581-44dc2cc2-6823-4b3d-8bd5-a4d47aa2b873.jpg)
+
 </details>
 
 ### vídeo
