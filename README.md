@@ -49,6 +49,9 @@ Pero antes debes de extraer la carpeta `libres` dónde se encuentran las libreri
 
 ![IMG_20221014_171227](https://user-images.githubusercontent.com/86094668/195962016-0d5f81e2-07ad-42e2-b6a5-b81fe338c58b.jpg)
 
+Luego de tener la carpeta `libres` extraída regresa a tu IDE y en el panel de alertas que tienes presente debes darle en el botón `resolve` este te abrirá la ruta de directorio, dónde debes de encontrar la carpeta libres y cargar cada una de las librerias.
+
+![IMG_20221014_171335](https://user-images.githubusercontent.com/86094668/195962339-425ac49e-422b-4cb6-a7d1-44a89bca763a.jpg)
 </details>
 
 ### vídeo
