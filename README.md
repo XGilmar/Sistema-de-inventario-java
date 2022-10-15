@@ -19,7 +19,7 @@
 
 ### Primer paso
 
-Debes de extraer el archivo adjunto del proyecto, como recomendación ubicalo en una ruta específica donde sea fácil encontrarlo y seguido de eso hacer una copia del proyecto ya que si por motivos tienes un error podrás restaurarlo nuevamente.
+Debes de `extraer` el archivo adjunto del proyecto, como recomendación ubicalo en una ruta específica donde sea fácil encontrarlo y seguido de eso hacer una copia del proyecto ya que si por motivos tienes un error podrás restaurarlo nuevamente.
 ![IMG_20221014_170820](https://user-images.githubusercontent.com/86094668/195960581-44dc2cc2-6823-4b3d-8bd5-a4d47aa2b873.jpg)
 
  **`Imagen 2`**
@@ -51,7 +51,7 @@ Luego de que hayas dando en `resolve problems` te saldrá la siguiente ventana c
 
 ![IMG_20221014_171150](https://user-images.githubusercontent.com/86094668/195961954-30c19930-b2f1-4a17-b095-3b9df854bbca.jpg)
 
-Pero antes debes de extraer la carpeta `libres` dónde se encuentran las librerias que debes cargar.
+Pero antes debes de `extraer` la carpeta `libres` dónde se encuentran las librerias que debes cargar.
 
 ![IMG_20221014_171227](https://user-images.githubusercontent.com/86094668/195962016-0d5f81e2-07ad-42e2-b6a5-b81fe338c58b.jpg)
 
@@ -59,7 +59,11 @@ Luego de tener la carpeta `libres` extraída regresa a tu IDE y en el panel de a
 
 ![IMG_20221014_171335](https://user-images.githubusercontent.com/86094668/195962339-425ac49e-422b-4cb6-a7d1-44a89bca763a.jpg)
 
+`imagen 2`
+
 ![IMG_20221014_171400](https://user-images.githubusercontent.com/86094668/195962548-7d73b11e-c2b1-436a-ab2d-450d11120e86.jpg)
+
+Una vez de que hayas cargado todas las librierias, las alertas desaparecerán por si solas y podrás ejecutar el proyecto.
 </details>
 
 ### vídeo
