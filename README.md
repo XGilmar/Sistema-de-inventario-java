@@ -33,6 +33,12 @@ Abre tu IDE y dirigite a la opción `open project` para abrir el proyecto.
 
 
 ![IMG_20221014_171102](https://user-images.githubusercontent.com/86094668/195961549-6b72c62a-dccc-4229-9949-047b4cdfb6bb.jpg)
+
+### Tercer paso
+
+Una vez hayas abierto el proyecto, te aparecerá este pequeño panel dónde debes darle en `resolve problems`
+
+![IMG_20221014_171129](https://user-images.githubusercontent.com/86094668/195961609-dced9cb4-5c58-4cb7-848d-243ce199697f.jpg)
 </details>
 
 ### vídeo
