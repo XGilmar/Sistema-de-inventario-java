@@ -41,9 +41,14 @@ Una vez hayas abierto el proyecto, te aparecerá este pequeño panel dónde debe
 ![IMG_20221014_171129](https://user-images.githubusercontent.com/86094668/195961609-dced9cb4-5c58-4cb7-848d-243ce199697f.jpg)
 
 
-Seguido de que le hayas dando en `resolve problems` te saldrá esta ventana donde te indica que tienes varias alertas. Estás alertas se tratan de que debes cargar las librerias. 
+Luego de que hayas dando en `resolve problems` te saldrá la siguiente ventana con varias alertas. Estás alertas se tratan de que debes cargar las librerias. 
 
 ![IMG_20221014_171150](https://user-images.githubusercontent.com/86094668/195961954-30c19930-b2f1-4a17-b095-3b9df854bbca.jpg)
+
+Pero antes debes de extraer la carpeta `libres` dónde se encuentran las librerias que debes cargar.
+
+![IMG_20221014_171227](https://user-images.githubusercontent.com/86094668/195962016-0d5f81e2-07ad-42e2-b6a5-b81fe338c58b.jpg)
+
 </details>
 
 ### vídeo
