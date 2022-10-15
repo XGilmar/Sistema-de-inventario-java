@@ -21,6 +21,7 @@
 
 Debes de extraer el archivo adjunto del proyecto, como recomendación ubicalo en una ruta específica donde sea fácil encontrarlo y seguido de eso hacer una copia del proyecto ya que si por motivos tienes un error podrás restaurarlo nuevamente.
 ![IMG_20221014_170820](https://user-images.githubusercontent.com/86094668/195960581-44dc2cc2-6823-4b3d-8bd5-a4d47aa2b873.jpg)
+![IMG_20221014_170852](https://user-images.githubusercontent.com/86094668/195961174-d985dfdb-586d-44a5-b0d9-3d1e481b482f.jpg)
 
 </details>
 
