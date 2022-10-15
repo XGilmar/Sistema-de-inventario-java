@@ -23,6 +23,12 @@ Debes de extraer el archivo adjunto del proyecto, como recomendación ubicalo en
 ![IMG_20221014_170820](https://user-images.githubusercontent.com/86094668/195960581-44dc2cc2-6823-4b3d-8bd5-a4d47aa2b873.jpg)
 ![IMG_20221014_170852](https://user-images.githubusercontent.com/86094668/195961174-d985dfdb-586d-44a5-b0d9-3d1e481b482f.jpg)
 
+### Segundo paso
+
+Abre tu IDE y dirigite a la opción `open project` para abrir el proyecto.
+
+![IMG_20221014_170941](https://user-images.githubusercontent.com/86094668/195961258-e4e60fb5-bece-4779-b40c-cad009760469.jpg)
+
 </details>
 
 ### vídeo
