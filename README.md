@@ -29,6 +29,8 @@ Abre tu IDE y dirigite a la opción `open project` para abrir el proyecto.
 
 ![IMG_20221014_170941](https://user-images.githubusercontent.com/86094668/195961258-e4e60fb5-bece-4779-b40c-cad009760469.jpg)
 
+![IMG_20221014_171012](https://user-images.githubusercontent.com/86094668/195961410-043e1f94-682c-485f-af8f-bb749d29cc1f.jpg)
+
 </details>
 
 ### vídeo
