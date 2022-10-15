@@ -21,6 +21,9 @@
 
 Debes de extraer el archivo adjunto del proyecto, como recomendación ubicalo en una ruta específica donde sea fácil encontrarlo y seguido de eso hacer una copia del proyecto ya que si por motivos tienes un error podrás restaurarlo nuevamente.
 ![IMG_20221014_170820](https://user-images.githubusercontent.com/86094668/195960581-44dc2cc2-6823-4b3d-8bd5-a4d47aa2b873.jpg)
+
+ **`Imagen 2`**
+
 ![IMG_20221014_170852](https://user-images.githubusercontent.com/86094668/195961174-d985dfdb-586d-44a5-b0d9-3d1e481b482f.jpg)
 
 ### Segundo paso
@@ -29,8 +32,11 @@ Abre tu IDE y dirigite a la opción `open project` para abrir el proyecto.
 
 ![IMG_20221014_170941](https://user-images.githubusercontent.com/86094668/195961258-e4e60fb5-bece-4779-b40c-cad009760469.jpg)
 
+`imagen 2`
+
 ![IMG_20221014_171012](https://user-images.githubusercontent.com/86094668/195961410-043e1f94-682c-485f-af8f-bb749d29cc1f.jpg)
 
+`imagen 3`
 
 ![IMG_20221014_171102](https://user-images.githubusercontent.com/86094668/195961549-6b72c62a-dccc-4229-9949-047b4cdfb6bb.jpg)
 
