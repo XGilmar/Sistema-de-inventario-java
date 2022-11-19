@@ -1,11 +1,8 @@
 
-![1668852452548](https://user-images.githubusercontent.com/86094668/202845645-35181c9a-2faf-4fc9-bf7e-f61187bb20b7.png)
+![1668852201217](https://user-images.githubusercontent.com/86094668/202845687-f4e9e44c-fa04-4f41-809c-bc2201929935.png)
 
 <p align="center"> Sistema control de inventario con factura realizado en java.</p>
 
-<div align="center" style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
 
 ## 💻 Tecnologías utilizadas
 - Java 8
