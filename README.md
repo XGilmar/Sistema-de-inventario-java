@@ -1,4 +1,5 @@
-<h1 align="center"> Sistema de inventario </h1>
+
+![1668852452548](https://user-images.githubusercontent.com/86094668/202845645-35181c9a-2faf-4fc9-bf7e-f61187bb20b7.png)
 
 <p align="center"> Sistema control de inventario con factura realizado en java.</p>
 
