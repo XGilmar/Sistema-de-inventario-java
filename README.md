@@ -1,7 +1,6 @@
 
 ![1668852201217](https://user-images.githubusercontent.com/86094668/202845687-f4e9e44c-fa04-4f41-809c-bc2201929935.png)
 
-<p align="center"> Sistema control de inventario con factura realizado en java.</p>
 
 
 ## 💻 Tecnologías utilizadas
